@@ -13,10 +13,18 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 #EXTINF:-1 channel-id="pluto-5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="USA" , Comedy Central Animation
+https://r.mjh.nz/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="241" group-title="Canada" , Comedy Central Animation
+https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ca6748a37b88b269472dad9" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids" , Nick Jr. Pluto TV
 https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6450209d939a5900084dba1d" tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" tvg-chno="3790" group-title="USA" , Totally Teen
+https://r.mjh.nz/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Pluto TV Anime All Day (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="USA" , Crunchyroll
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
 #EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animation",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment",Adult Swim Channel 5 (1080p) [Geo-blocked]
@@ -40,20 +48,45 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="Comedy",Just for Laughs Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-logo="https://images.pluto.tv/channels/60d32888e31a0300073d9f08/colorLogoPNG.png" tvg-chno="713" group-title="Great Britain" , Just for Laughs
+https://r.mjh.nz/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Comedy",Comedy Dynamics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a408bd341e000818fcda" tvg-id="64f8a408bd341e000818fcda" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-chno="240" group-title="Canada" , Comedy Central
+https://r.mjh.nz/PlutoTV/64f8a408bd341e000818fcda-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a9ccd661bb00081bd93a" tvg-id="64f8a9ccd661bb00081bd93a" tvg-logo="https://images.pluto.tv/channels/64f8a9ccd661bb00081bd93a/colorLogoPNG.png" tvg-chno="242" group-title="Canada" , Comedy Central Stand-Up
+https://r.mjh.nz/PlutoTV/64f8a9ccd661bb00081bd93a-alt.m3u8
 #EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/17hqLxR.png" group-title="Comedy",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",FailArmy
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="Lifestyle",Cats 24/7 (US) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-5b329e0a7b9d8872aeb49ceb" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-chno="3630" group-title="Animals + Nature" , Dogs 24/7
+https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-599375885ceaac3cabccbed7" tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" tvg-chno="3640" group-title="Animals + Nature" , Cats 24/7
+https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5bb1ad55268cae539bcedb08" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" tvg-chno="3620" group-title="USA" , The Pet Collective
+https://r.mjh.nz/PlutoTV/5bb1ad55268cae539bcedb08-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5eb95c119dc712000741fa35" tvg-id="5eb95c119dc712000741fa35" tvg-logo="https://images.pluto.tv/channels/5eb95c119dc712000741fa35/colorLogoPNG.png" tvg-chno="242" group-title="Germany" , People are Awesome
+https://r.mjh.nz/PlutoTV/5eb95c119dc712000741fa35-alt.m3u8
 
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodTV.us" tvg-logo="https://i.imgur.com/WGUPTnL.png" group-title="Cooking",Pluto TV Food TV (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-5fb5844bf5514d0007945bda" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" tvg-chno="3490" group-title="USA" , BBC Food
+https://r.mjh.nz/PlutoTV/5fb5844bf5514d0007945bda-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5b4e99f4423e067bd6df6903" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" tvg-chno="1900" group-title="USA" , Gordon Ramsay's Hell's Kitchen
+https://r.mjh.nz/PlutoTV/5b4e99f4423e067bd6df6903-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-601a0342dcf4370007566891" tvg-id="601a0342dcf4370007566891" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" tvg-chno="3360" group-title="USA" , Tiny House Nation
+https://r.mjh.nz/PlutoTV/601a0342dcf4370007566891-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dc1cb279c91420009db261d" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" tvg-chno="3370" group-title="USA" , Home.Made.Nation
+https://r.mjh.nz/PlutoTV/5dc1cb279c91420009db261d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5fb5836fe745b600070fc743" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" tvg-chno="3500" group-title="USA" , BBC Home & Garden
+https://r.mjh.nz/PlutoTV/5fb5836fe745b600070fc743-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f4ff8c8bcf3d600078af3eb" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" tvg-chno="3510" group-title="USA" , The Design Network
+https://r.mjh.nz/PlutoTV/5f4ff8c8bcf3d600078af3eb-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" tvg-chno="3090" group-title="History + Science" , Pluto TV History
 https://r.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
