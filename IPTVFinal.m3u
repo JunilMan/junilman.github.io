@@ -88,6 +88,17 @@ https://r.mjh.nz/PlutoTV/5fb5836fe745b600070fc743-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f4ff8c8bcf3d600078af3eb" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" tvg-chno="3510" group-title="USA" , The Design Network
 https://r.mjh.nz/PlutoTV/5f4ff8c8bcf3d600078af3eb-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5bd833b41843b56328bac189" tvg-id="5bd833b41843b56328bac189" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" tvg-chno="403" group-title="Great Britain" , Mythbusters
+https://r.mjh.nz/PlutoTV/5bd833b41843b56328bac189-alt.m3u8
+#EXTINF:-1 channel-id="pluto-604f8125c6669b00077f7699" tvg-id="604f8125c6669b00077f7699" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" tvg-chno="701" group-title="Spain" , Wipeout
+https://r.mjh.nz/PlutoTV/604f8125c6669b00077f7699-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ea190ae85a26900075a80e9" tvg-id="5ea190ae85a26900075a80e9" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" tvg-chno="755" group-title="Great Britain" , Wipeout
+https://r.mjh.nz/PlutoTV/5ea190ae85a26900075a80e9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-588128d17d64bc0d0f385c34" tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" tvg-chno="1930" group-title="USA" , Fear Factor
+https://r.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5c362ded581a86051df509b4" tvg-id="5c362ded581a86051df509b4" tvg-logo="https://images.pluto.tv/channels/5c362ded581a86051df509b4/colorLogoPNG.png" tvg-chno="754" group-title="Great Britain" , Fear Factor
+https://r.mjh.nz/PlutoTV/5c362ded581a86051df509b4-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" tvg-chno="3090" group-title="History + Science" , Pluto TV History
 https://r.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
 #EXTINF:-1 ,Discovery Bangla HD
