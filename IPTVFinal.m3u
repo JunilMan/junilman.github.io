@@ -24,8 +24,19 @@ https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Toonami (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
+#EXTINF:-1 channel-id="pluto-561c5f613286e48904fb2677" tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" tvg-chno="2200" group-title="USA" , IGN
+https://r.mjh.nz/PlutoTV/561c5f613286e48904fb2677-alt.m3u8
+
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="Comedy",Just for Laughs Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -44,8 +55,20 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodTV.us" tvg-logo="https://i.imgur.com/WGUPTnL.png" group-title="Cooking",Pluto TV Food TV (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
 
-
+#EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" tvg-chno="3090" group-title="History + Science" , Pluto TV History
+https://r.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
 #EXTINF:-1 ,Discovery Bangla HD
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #EXTINF:-1 ,Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV
+http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 channel-id="pluto-5ca672f515a62078d2ec0ad2" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG-1641928171062.png" tvg-chno="2140" group-title="Entertainment" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5ca672f515a62078d2ec0ad2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="Music Videos" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="Music Videos" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Japan (720p)
+http://jp.vthanhnetwork.com/MTV/index.m3u8
