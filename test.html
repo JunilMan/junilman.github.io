@@ -9,7 +9,6 @@ fetch(apiUrl)
     return response.json();
   })
   .then(data => {
-    data = JSON.parse(data)
     console.log(data.items);
   })
   .catch(error => {
