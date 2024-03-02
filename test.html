@@ -10,7 +10,7 @@ fetch(apiUrl)
   })
   .then(data => {
     data = JSON.parse(data)
-    console.log(data.items.id.videoid);
+    console.log(data.items);
   })
   .catch(error => {
     console.error('Error:', error);
