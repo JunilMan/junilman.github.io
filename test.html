@@ -1,5 +1,19 @@
 <script>
-console.log("gago");
+const apiUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCKL5hAuzgFQsyrsQKgU0Qng&eventType=live&type=video&key=AIzaSyDLUTddQEfDQEPcs8NjihSOKQcu3ZYLiho';
+
+fetch(apiUrl)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => {
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
 </script>
 #EXTM3U
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Undefined",GMA TV (1080p) [Not 24/7]
