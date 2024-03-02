@@ -1,3 +1,4 @@
+document.write("WTF")
 #EXTM3U
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Undefined",GMA TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
