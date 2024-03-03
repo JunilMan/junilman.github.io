@@ -11,7 +11,7 @@ fetch(apiUrl)
     return response.json();
   })
   .then(data => {
-  	document.write("plugin://plugin.video.youtube/play/?video_id=")
+  	document.write("plugin://plugin.video.youtube/play/?video_id=");
     document.write(data.items[0].id.videoId);
   })
   .catch(error => {
