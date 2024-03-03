@@ -1,7 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Undefined",GMA TV (1080p) [Not 24/7]
 <script>
-function getCHid(handlename){
-  const apiUrl = 'https://www.googleapis.com/youtube/v3/channels?part=snippet&forHandle='+handlename+'&key=AIzaSyCGC4qptsOMZPqH_Wxmf6X3qjTeT7eNH6A';
-  fetch(apiUrl)
+  const apiUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCKL5hAuzgFQsyrsQKgU0Qng&eventType=live&type=video&key=AIzaSyDLUTddQEfDQEPcs8NjihSOKQcu3ZYLiho';
+
+fetch(apiUrl)
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');
@@ -9,17 +11,13 @@ function getCHid(handlename){
     return response.json();
   })
   .then(data => {
-    return(data.items)
+  	document.write("plugin://plugin.video.youtube/play/?video_id=")
+    document.write(data.items[0].id.videoId);
   })
   .catch(error => {
     console.error('Error:', error);
   });
-}
-console.log(getCHid('gmanetwork'))
 </script>
-#EXTM3U
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Undefined",GMA TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Undefined",MYX Philippines (720p)
